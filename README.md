@@ -66,7 +66,7 @@ The Supported J-Type instruction format:
 <br>
 
 ### Future Work:
-- Conducted basic verification using SystemVerilog testbenches to ensure the correct operation of the SoC under various conditions and prescale settings
+- Conducted more advanced verification using SystemVerilog testbenches to ensure the correct operation of the SoC under various conditions and prescale settings
 - Expanding with additional peripherals to demonstrate scalability.
 - Optimizing power consumption and clock speed for embedded applications.
 
