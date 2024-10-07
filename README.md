@@ -36,7 +36,7 @@ My Design supports 27 different instructions which are classified according to t
 
 The Supported R-Type instructions formats:
 <div align="center">
-  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20R-Type%20Instructions.png.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20R-Type%20Instructions.png" alt=" Instructions types">
 </div>
 <br>
 
