@@ -54,7 +54,7 @@ The Supported S-Type instructions formats:
 
 The Supported B-Type instruction format:
 <div align="center">
-  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20B-Type%20Instructions.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20B-Type%20Instruction.png" alt=" Instructions types">
 </div>
 <br>
 
