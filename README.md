@@ -1,4 +1,3 @@
-# SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration
 # SoC Design with Pipelined RV32I Processor and APB Integration
 
 Welcome to the repository for the **SoC Design Project** featuring a custom **RV32I Pipelined Processor** integrated with an **Advanced Peripheral Bus (APB)**, along with a **UART** module. This project showcases a modular and efficient System-on-Chip (SoC) design aimed at achieving both performance and scalability, ideal for embedded systems.
