@@ -24,7 +24,46 @@ This project centers around the integration of a custom-designed RV32I processor
 - **Processor**: RV32I architecture with 5-stage pipeline (Fetch, Decode, Execute, Memory, Write Back).
 - **APB Interface**: APB Master wrapper, address decoder, and multiple slave peripherals.
 - **UART**: Configurable through memory-mapped registers for communication.
-  
+
+  ## Supported Instruction Set
+
+My Design supports 27 different instructions which are classified according to these instruction formats
+
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/Instructions types.png" alt=" Instructions types">
+</div>
+<br>
+
+The Supported R-Type instructions formats:
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported R-Type Instructions.png" alt=" Instructions types">
+</div>
+<br>
+
+The Supported I-Type instructions formats:
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported I-Type Instructions.png" alt=" Instructions types">
+</div>
+<br>
+
+The Supported S-Type instructions formats:
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported S-Type Instructions.png" alt=" Instructions types">
+</div>
+<br>
+
+The Supported B-Type instruction format:
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported B-Type Instruction.png" alt=" Instructions types">
+</div>
+<br>
+
+The Supported J-Type instruction format:
+
+<div align="center">
+  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported J-Type Instruction.png" alt=" Instructions types">
+</div>
+<br>
 
 ### Future Work:
 - Conducted basic verification using SystemVerilog testbenches to ensure the correct operation of the SoC under various conditions and prescale settings
