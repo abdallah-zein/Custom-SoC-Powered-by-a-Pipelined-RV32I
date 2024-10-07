@@ -30,38 +30,38 @@ This project centers around the integration of a custom-designed RV32I processor
 My Design supports 27 different instructions which are classified according to these instruction formats
 
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/Instructions types.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/Instructions%20types.png" alt=" Instructions types">
 </div>
 <br>
 
 The Supported R-Type instructions formats:
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported R-Type Instructions.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20R-Type%20Instructions.png.png" alt=" Instructions types">
 </div>
 <br>
 
 The Supported I-Type instructions formats:
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported I-Type Instructions.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20I-Type%20Instructions.png" alt=" Instructions types">
 </div>
 <br>
 
 The Supported S-Type instructions formats:
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported S-Type Instructions.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20S-Type%20Instructions.png" alt=" Instructions types">
 </div>
 <br>
 
 The Supported B-Type instruction format:
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported B-Type Instruction.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20B-Type%20Instructions.png" alt=" Instructions types">
 </div>
 <br>
 
 The Supported J-Type instruction format:
 
 <div align="center">
-  <img src="https://github.com/KareemAtefEECE/Pipelined-RV32I-Processor-with-Hazard-Unit/blob/main/Images/supported J-Type Instruction.png" alt=" Instructions types">
+  <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/supported%20J-Type%20Instructions.png" alt=" Instructions types">
 </div>
 <br>
 
