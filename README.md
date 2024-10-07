@@ -9,7 +9,7 @@ This project centers around the integration of a custom-designed RV32I processor
 ### Key Features:
 - **Pipelined RV32I Processor**:
   - Supports **R-Type, I-Type, S-Type, B-Type, and J-Type** instruction formats.
-  - **Hazard Unit** that detects and resolves data and control hazards, preventing pipeline stalls.
+  - **Hazard Unit** that detects and resolves data and control hazards, minimizing pipeline stalls.
   - Delivers **higher throughput** and **lower latency** compared to single-cycle designs.
   
 - **APB Integration**:
@@ -27,7 +27,7 @@ This project centers around the integration of a custom-designed RV32I processor
 
   ## Supported Instruction Set
 
-My Design supports 27 different instructions which are classified according to these instruction formats
+Instruction formats:
 
 <div align="center">
   <img src="https://github.com/abdallah-zein/SoC-Design-with-Pipelined-RV32I-Processor-and-APB-Integration/blob/main/images/Instructions%20types.png" alt=" Instructions types">
