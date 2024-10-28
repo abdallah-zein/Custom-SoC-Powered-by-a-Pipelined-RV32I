@@ -23,7 +23,7 @@
 module pc(pc_cur, pc_nxt, clk, rst, StallF);
 
     input clk, rst;
-    input StallF; // undeveloped fetch stall signal from the hazard control module
+    input StallF; 
     input [31:0] pc_nxt;
     output reg [31:0] pc_cur;
     
